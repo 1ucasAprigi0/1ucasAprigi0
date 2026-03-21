@@ -28,5 +28,5 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cb3820a-b63a-4359-88a3-366c0d60cd4e" alt="Encerramento Animado" width="400" />
+  <img src="https://github.com/user-attachments/assets/4cb3820a-b63a-4359-88a3-366c0d60cd4e" alt="Mario_Programando_gif"/>
 </p>
