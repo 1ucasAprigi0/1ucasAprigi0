@@ -28,5 +28,5 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cb3820a-b63a-4359-88a3-366c0d60cd4e" alt="Mario_Programando_gif" width="100%" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;" />
+  <img src="https://github.com/user-attachments/assets/4cb3820a-b63a-4359-88a3-366c0d60cd4e" alt="Mario_Programando_gif"/>
 </p>
