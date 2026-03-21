@@ -2,11 +2,8 @@
 <h3 align="center">Estudante brasileiro💚 de Análise e Desenvolvimento de Sistemas na CESAR School🧡, Gosto muito de Desenvolvimento BackEnd, jogos e Designer</h3>
 
 - 🐍 Dev Backend Python [CRUD - Consultas Médicas](https://github.com/Miguel123448/CRUD-Sistema-de-Agendamento-de-Consultas-em-Unidade-B-sica-de-Sa-de)
-
-- 📖 - Atualmente estudando: **C,Python,JS,HTML,CSS,ServiceNow**
-
 - 🧠 Dev FrontEnd HTML/CSS/JS [ConvegencIA](https://github.com/MiguelLussac/FrontEnd-ConvergencIA)
-
+- 📖 - Atualmente estudando: **C,Python,JS,HTML,CSS,ServiceNow**
 - 📫 E-mail para contato **lucasaprigio27@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
