@@ -8,7 +8,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucaprigio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaprigio" height="30" width="40" /></a> <a href="https://www.instagram.com/__lucasaprigio__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lucasaprigio_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucaprigio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaprigio" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__lucasaprigio__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lucasaprigio_" height="30" width="40" /></a>
 </p>
 <h3 align="left">Idiomas e Ferramentas:</h3>
 <table>
