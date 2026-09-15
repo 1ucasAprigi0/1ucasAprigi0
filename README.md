@@ -1,4 +1,4 @@
-<h1 align="center">Olá!😁 Meu nome é Lucas Aprigio</h1>
+<h1 align="center">Olá!👋 Meu nome é Lucas Aprigio</h1>
 <h3 align="center">Estudante brasileiro💚 de Análise e Desenvolvimento de Sistemas na CESAR School🧡, Gosto muito de Desenvolvimento BackEnd, jogos e Design</h3>
 
 - 🐍 Dev Backend Python [CRUD - Consultas Médicas](https://github.com/Miguel123448/CRUD-Sistema-de-Agendamento-de-Consultas-em-Unidade-B-sica-de-Sa-de)
