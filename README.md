@@ -3,7 +3,7 @@
 
 - 🐍 Dev Backend Python [CRUD - Consultas Médicas](https://github.com/Miguel123448/CRUD-Sistema-de-Agendamento-de-Consultas-em-Unidade-B-sica-de-Sa-de)
 - 🧠 Dev FrontEnd HTML/CSS/JS [ConvegencIA](https://github.com/MiguelLussac/FrontEnd-ConvergencIA)
-- 📖 Atualmente estudando: **C**
+- 📖 Atualmente estudando: **Algoritmos e estrutura de dados com C++ e POO com Java**
 - 📫 E-mail para contato: **lucasaprigio27@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
