@@ -9,15 +9,17 @@
 </ul>
 
 - 📖 Atualmente estudando: **Algoritmos e estrutura de dados com C++ e POO com Java**
-- 📫 E-mail para contato: **lucasaprigio27@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
+
+- 📫 E-mail para contato: **<a href="mailto:lucasaprigio27@gmail.com">lucasaprigio27@gmail.com</a>**
 <table>
   <tr>
     <td><a href="https://linkedin.com/in/lucaprigio"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a></td>
     <td><a href="https://www.instagram.com/__lucasaprigio__/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"></a></td>
   </tr>
 </table>
+
 <h3 align="left">Idiomas e Ferramentas:</h3>
 <table>
   <tr>
