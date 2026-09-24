@@ -1,8 +1,11 @@
 <h1 align="center">Olá!👋 Meu nome é Lucas Aprigio</h1>
 <h3 align="center">Estudante brasileiro💚 de Análise e Desenvolvimento de Sistemas na CESAR School🧡, Gosto muito de Desenvolvimento BackEnd, jogos e Design</h3>
 
+<h3 align="left">Meus Projetos:</h3>
 - 🐍 Dev Backend Python [CRUD - Consultas Médicas](https://github.com/Miguel123448/CRUD-Sistema-de-Agendamento-de-Consultas-em-Unidade-B-sica-de-Sa-de)
+- 🎶 Dev Backend Java [Mesa de Dj](https://github.com/egs3-coder/Mesa-DJ.git)
 - 🧠 Dev FrontEnd HTML/CSS/JS [ConvegencIA](https://github.com/MiguelLussac/FrontEnd-ConvergencIA)
+
 - 📖 Atualmente estudando: **Algoritmos e estrutura de dados com C++ e POO com Java**
 - 📫 E-mail para contato: **lucasaprigio27@gmail.com**
 
