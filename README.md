@@ -3,10 +3,10 @@
 
 <h3 align="left">Meus Projetos:</h3>
 <ul>
-  <li>🐍 Dev Backend Python <a href="https://github.com/Miguel123448/CRUD-Sistema-de-Agendamento-de-Consultas-em-Unidade-B-sica-de-Sa-de">CRUD - Consultas Médicas</a></li>
-  <li>🎶 Dev Backend Java <a href="https://github.com/egs3-coder/Mesa-DJ.git">Mesa de Dj</a></li>
-  <li>🧠 Dev FrontEnd HTML/CSS/JS <a href="https://github.com/MiguelLussac/FrontEnd-ConvergencIA">ConvergencIA</a></li>
-  <li>🎮 Game Dev <a href="https://github.com/egs3-coder/Projeto-Interno.git">Meta Deck</a></li>
+  <li>🐍 Dev Backend Python: <a href="https://github.com/Miguel123448/CRUD-Sistema-de-Agendamento-de-Consultas-em-Unidade-B-sica-de-Sa-de">CRUD - Consultas Médicas</a></li>
+  <li>🎶 Dev Backend Java: <a href="https://github.com/egs3-coder/Mesa-DJ.git">Mesa de Dj</a></li>
+  <li>🧠 Dev FrontEnd HTML/CSS/JS: <a href="https://github.com/MiguelLussac/FrontEnd-ConvergencIA">ConvergencIA</a></li>
+  <li>🎮 Game Dev: <a href="https://github.com/egs3-coder/Projeto-Interno.git">Meta Deck</a></li>
 </ul>
 
 - 📖 Atualmente estudando: **Algoritmos e estrutura de dados com C++ e POO com Java**
